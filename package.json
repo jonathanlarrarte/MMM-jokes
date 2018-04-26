@@ -1,0 +1,26 @@
+{
+  "name": "Magic-Mirror-Module-Jokes",
+  "version": "1.0.0",
+  "description": "Random Jokes module for the Magic Mirror.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonathanlarrarte/MMM-jokes.git"
+  },
+  "keywords": [
+    "magic mirror",
+    "smart mirror",
+    "jokes",
+    "module"
+  ],
+  "author": "Aaron Kable",
+  "contributors": "https://github.com/jonathanlarrarte/MMM-jokes/graphs/contributors",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jonathanlarrarte/MMM-jokes/issues"
+  },
+  "homepage": "https://github.com/jonathanlarrarte/MMM-jokes#readme",
+  "dependencies": {
+    "request": "latest",
+    "valid-url": "latest"
+    }
+}
